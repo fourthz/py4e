@@ -8,6 +8,6 @@ try:
     pay = hours * rate
   else:
     pay = ((hours - 40) * (1.5 * rate)) + (40 * rate)
-  print ('Pay ='), pay
+  print ('Pay =', pay)
 except:
     print('Error, please enter numeric input')
