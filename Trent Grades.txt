@@ -1,0 +1,2 @@
+For exercise 3_1, I had to make some fixes. You generally had the right idea, but always check to
+make sure that it runs correctly before you submit your work.
