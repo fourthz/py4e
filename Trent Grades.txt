@@ -1,2 +1,15 @@
 For exercise 3_1, I had to make some fixes. You generally had the right idea, but always check to
 make sure that it runs correctly before you submit your work.
+
+3.2: Nice!
+3.3: Nice!
+
+4.6: You need to create code body that calls the function. Go ahead and fix but you don't need to
+turn it in right now. I'll check again when you turn in work for Chapter 5.
+
+Quizzes: I couldn't read these. They were too small and when I zoomed the resolution was bad.
+Rather than a picture (which I know is how I first sent to you), notice the way that I'm now sending to you.
+This is easier for both the person taking the quiz and for the person grading.
+
+Overall, good work!
+
