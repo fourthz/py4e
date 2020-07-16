@@ -1,3 +1,4 @@
+
 For exercise 3_1, I had to make some fixes. You generally had the right idea, but always check to
 make sure that it runs correctly before you submit your work.
 
@@ -7,9 +8,36 @@ make sure that it runs correctly before you submit your work.
 4.6: You need to create code body that calls the function. Go ahead and fix but you don't need to
 turn it in right now. I'll check again when you turn in work for Chapter 5.
 
-Quizzes: I couldn't read these. They were too small and when I zoomed the resolution was bad.
-Rather than a picture (which I know is how I first sent to you), notice the way that I'm now sending to you.
-This is easier for both the person taking the quiz and for the person grading.
-
 Overall, good work!
+
+*****
+
+4.6 (Revised): Very nice! I like the messages.
+
+5.1: Nice, though "u suck" is a bit harsh! Take a look at the printing embellishments on my code.
+5.2: Similar comment here. Nice programming, but "hate" is harsh! Also, look again at printing embellishments.
+
+Quiz 6: 9/10 (You missed one item)
+
+You didn't do exercise 6-5. I'm really wanting you to practice for GSSM. You need to eliminate the bad habit of missing assignments!
+
+Here is the order of the next steps. I'm trying very hard to get into a rhythm, but when you miss things it makes it difficult.
+
+1) I'm going to do a pull request for you to get the above grades and this note.
+2) You will add exercise 6-5 and push, then let me know it is ready for grading.
+3) I will grade and give you another pull request. I will also push my 5 & 6 for you to grade.
+4) You will give me a pull request after you grade my 5 & 6.
+5) I will grade 7 and then give you a pull request. I will also push my 7.
+6) You will grade 7 and give me a pull request.
+
+All of the above needs to be done before you move onto the assignment for Thursday, which will be Chapter 8. Then we will be back on
+track. Please don't miss assignments and throw us off! Thanks! --Your biggest fan
+
+
+
+
+
+
+
+
 
