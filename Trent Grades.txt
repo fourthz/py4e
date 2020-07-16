@@ -33,6 +33,19 @@ Here is the order of the next steps. I'm trying very hard to get into a rhythm, 
 All of the above needs to be done before you move onto the assignment for Thursday, which will be Chapter 8. Then we will be back on
 track. Please don't miss assignments and throw us off! Thanks! --Your biggest fan
 
+****
+
+I went ahead and graded 6-5 (nice!) and Chapter 7.
+
+Quiz 7: I score it 9/10. I believe the answer to #9 is try/except, not signal handlers.
+
+7-1 & 7-2: Again, nice, but note in my code the error checking and the flexibility.
+
+OK, we're caught up as soon as you grade mine!
+
+****
+
+
 
 
 
