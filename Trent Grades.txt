@@ -60,12 +60,18 @@ Nice work!
 
 ****
 
+Quiz  #9: I think it is 9/10, but let me know if you think I'm right. For item #8 you put that the for loop will loop through the
+values in the dictionary, but I think that's wrong. I think it loops through the keys in the dictionary. We can discuss.
 
+Exercise 9-4: This works great! In fact, you did a bit extra by giving the minimum and the maximum, rather than just the maximum.
 
+I have a couple recommendations:
 
+1) As I've said before, put a comment line at the top to tell what the program does.
 
+2) You had a little bit of spacing in the code which made it MUCH more readable. I encourage you to use even more spacing. note
+my code. I separate out for loops, if statements, etc., with spaces. It costs you nothing and gains very readable code.
 
+3) Note my output provides the user a bit more info, which I think is good practice.
 
-
-
-
+All-in-all, however, you are doing some great work! I'm very proud of your development as a programmer so quickly.
