@@ -45,6 +45,21 @@ OK, we're caught up as soon as you grade mine!
 
 ****
 
+Yay! We're caught up! Please be careful about putting everything in the repo before you push it in the future. Thanks!
+
+Quiz #8: 10/10
+
+8-4 & 8-5: These run very nicely and do what they are supposed to do. My only suggestion is that you add two "optional" elements to
+your routine. (1) Put a comment at the top to indicate what the code does. Also, when programs get longer, add comments to indicate
+what each section of code does. You will see when you program regularly that this becomes hugely important so that you don't have to
+figure out what's going on every time you return to it. (2) Add some spacing for various elements to make the code more reasonable.
+See my code for an example of this. I know that the code runs without these two features, but if you think of this for the future,
+rather than short projects, you'll soon see the benefits.
+
+Nice work!
+
+****
+
 
 
 
