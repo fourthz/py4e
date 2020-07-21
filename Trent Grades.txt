@@ -75,3 +75,9 @@ my code. I separate out for loops, if statements, etc., with spaces. It costs yo
 3) Note my output provides the user a bit more info, which I think is good practice.
 
 All-in-all, however, you are doing some great work! I'm very proud of your development as a programmer so quickly.
+
+****
+
+Quiz #10: 10/10 (Better than me!)
+
+10-2: Works to do what it should. Keep up the good work!
