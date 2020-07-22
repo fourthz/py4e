@@ -81,3 +81,13 @@ All-in-all, however, you are doing some great work! I'm very proud of your devel
 Quiz #10: 10/10 (Better than me!)
 
 10-2: Works to do what it should. Keep up the good work!
+
+****
+
+Quiz 11: 10/10 -- Nice!
+
+Exercise 11-2: You have one simple correction to make. The assignment asked for us to print out as an integer.
+
+I still wish you would comment and space your code! (That's me!)
+
+You did one thing more elegant than me. I set up a counter, but you used the len statement instead. Nice!
