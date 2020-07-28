@@ -99,3 +99,15 @@ Quiz #12: 10/10   Good work!
 Exercises 12-1 and 12-2 were overwritten. Be careful in the future! Instead of redoing, just look carefully
 at mine when you grade my exercises to see how we did it the same or how we differed. You can check my 12-2
 using data.pr4e.org/romeo-full.txt if you want. Take a look at data.pr4e.org to see other data sets.
+
+***
+
+Quiz #12-B: 11/13
+
+I believe you missed #3 and #12.
+
+For #3, what you selected would take from http:// to the end of the line. The trick is using parentheses because they
+indicate the end and start of extraction. Thus, href="(.+)" says to exact all characters between the href=" and the ",
+which would extract the URL. It took me awhile to figure this out!
+
+For #12: The computer stores bytes. Unicode is a standardized method of coding for humans. Byte code is the answer.
